@@ -1,0 +1,43 @@
+[
+   {
+    "list_allow_nested_tags": [
+     "p",
+      "a",
+      "b",
+      "i",
+      "u",
+      "span",
+      "strong",
+      "div",
+      "h1"
+    ],
+    "content_tag": "div",
+    "content_tag_attributes": {
+      "class": "article__body js-mediator-article mia-analytics"
+    },
+    "hosts": ["ria.ru"]
+  },
+  {
+    "list_allow_nested_tags": [
+     "p",
+      "a",
+      "b",
+      "i",
+      "u",
+      "span",
+      "strong",
+      "div",
+      "h1"
+    ],
+    "content_tag": "div",
+    "content_tag_attributes": {
+      "class": "news"
+    },
+    "hosts": ["tass.ru"]
+  },
+  {
+    "title_tag": "h3",
+    "hosts": ["www.vesti.ru"]
+  }
+
+]
